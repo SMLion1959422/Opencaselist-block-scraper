@@ -1,4 +1,4 @@
-**## OpenCaselist-Block-Scrapper**
+## OpenCaselist-Block-Scrapper
 **Background:**
 Built a Python automation tool that collects open-source debate round files from OpenCaselist, filters them by team, school, recency, or topic, and compiles them into a single research packet while preserving document formatting.
 I coded this tool because I saw my debate event(public forum) was heavily reliant on evidence and prep. Teams that payed money for coaching and prep were a lot prepared in tournaments and was a huge reason I have lost rounds. That is why I chose to build this tool and push the debate space as sinething equitable and open for all. 
